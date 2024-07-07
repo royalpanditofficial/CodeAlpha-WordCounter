@@ -20,7 +20,7 @@ This Word Counter project is part of my virtual internship at CODE ALPHA. It is 
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/royalpanditofficial/word-counter.git
+    git clone https://github.com/royalpanditofficial/CodeAlpha-WordCounter.git
     ```
    
 2. **Navigate to the Project Directory**:
